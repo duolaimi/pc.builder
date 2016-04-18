@@ -1,0 +1,14 @@
+{
+    "evn":"dev",
+    "isCombo":true,
+    "cndDomain":"static.local",
+    "srcPathName":"_src",
+    "distPathName":"assets",
+    "htmlTplDist": "../html/",
+    "coreJs":{
+        "mods":["jquery","smcore","cookie"],
+        "name":"corelibs"
+    },
+    "jsPrefix":"sb.",
+    "hashLength":12
+}
